@@ -11,4 +11,4 @@ How to use?
 Put the file to folder where is HEIC files are located.
 cd to this folder in the terminal.
 Run the file in the terminal with:
-bash converter_HEIC_jpg.sh
+```bash converter_HEIC_jpg.sh```
